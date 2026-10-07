@@ -6,7 +6,7 @@ An analysis of hospital readmission patterns using SQL and Tableau, with a focus
 
 **[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/wangechi.ng.ang.a5145/viz/CMS_Hospital_Readmissions_Analysis/CMSHospitalReadmissionsAnalysis)**
 
-![CMS Hospital Readmissions Dashboard](Images/dashboard.png)
+![CMS Hospital Readmissions Dashboard](Images/CMS%20Hospital%20Readmissions%20Analysis.png)
 
 ## 📌 Project Overview
 
